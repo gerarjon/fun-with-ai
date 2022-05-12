@@ -1,0 +1,27 @@
+.response-item {
+    padding: 1rem 2rem;
+    margin: 0.7rem 0;
+    border-radius: 10px;
+    background-color: #147efb;
+    color:rgb(238, 238, 238);
+    list-style-type: none;
+}
+
+.response-prompt, .response-response {
+    display: flex;
+}
+
+.response-prompt > .response-header {
+    border: 1px solid red;
+    padding-right: 50px;
+}
+
+.response-response > .response-header {
+    border: 1px solid blue;
+    padding-right: 31px;
+}
+
+.response-header {
+    font-weight: 700;
+}
+
