@@ -12,12 +12,10 @@
 }
 
 .response-prompt > .response-header {
-    border: 1px solid red;
     padding-right: 50px;
 }
 
 .response-response > .response-header {
-    border: 1px solid blue;
     padding-right: 31px;
 }
 
